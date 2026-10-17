@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://turmur.ir/</loc><priority>1.0</priority></url>
+  <url><loc>https://turmur.ir/tours</loc><priority>0.9</priority></url>
+  <url><loc>https://turmur.ir/tours/yerevan</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/van</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/istanbul</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/russia</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/dubai</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/trabzon</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/batumi</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/tbilisi</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/baku</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/erbil</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/tours/oman</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/hotels</loc><priority>0.9</priority></url>
+  <url><loc>https://turmur.ir/flights</loc><priority>0.8</priority></url>
+  <url><loc>https://turmur.ir/about</loc><priority>0.5</priority></url>
+  <url><loc>https://turmur.ir/contact</loc><priority>0.7</priority></url>
+</urlset>
